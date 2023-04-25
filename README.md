@@ -18,14 +18,15 @@ This project is important because it provides a simple and efficient way for use
 
 ### Installation
 1. Clone the repository to your local machine using the command below:
->git clone https://github.com/Elvizier/finalCapstone/blob/master/task_manager.py
+> git clone https://github.com/Elvizier/finalCapstone.git
+
 
  
 ### Usage
 
 1. Open a terminal window and navigate to the project folder.
 2. Run the task_manager.py file using the command below:
->python task_manager.py
+> python task_manager.py
 
 3. Follow the prompts to log in, add tasks, view tasks, or generate reports.
 
