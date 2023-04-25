@@ -28,6 +28,9 @@ This project is important because it provides a simple and efficient way for use
 2. Run the task_manager.py file using the command below:
 > python task_manager.py
 
+* For Python3 on mac, run the task with the command below:
+> python3 task_manager.py
+
 3. Follow the prompts to log in, add tasks, view tasks, or generate reports.
 
 
