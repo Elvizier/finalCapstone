@@ -18,7 +18,7 @@ This project is important because it provides a simple and efficient way for use
 
 ### Installation
 1. Clone the repository to your local machine using the command below:
->git clone https://github.com/Elvizier/finalCapstone.git
+>git clone https://github.com/Elvizier/finalCapstone/blob/master/task_manager.py
 
  
 ### Usage
